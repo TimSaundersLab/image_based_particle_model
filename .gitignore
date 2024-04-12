@@ -1,3 +1,6 @@
+# Store data in data/ folder ignored by git
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
