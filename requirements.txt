@@ -1,8 +1,8 @@
 numpy>=1.22.3
 scipy>=1.8.0
 pandas>=1.2.0
-# scikit-image>=0.18
 matplotlib>=3.5.1
+seaborn==0.13.2
 notebook>=6.4.10
 ipywidgets>=7.7,<7.8
 pytest>=7.1.1,<7.2
@@ -12,4 +12,5 @@ numba>=0.56.4
 Pillow==9.2
 sparse==0.13.0
 line_profiler>=4.0.1
-mesa
+memory_profiler==0.61.0
+mesa==2.1.5
