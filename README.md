@@ -1,6 +1,7 @@
 # image_based_particle_model
 
-![image](https://github.com/Yi-Ting-Loo/image_based_particle_model/assets/91601788/77cef681-b400-415d-8a79-f8de52a989b2)
+![image](https://github.com/Yi-Ting-Loo/image_based_particle_model/assets/91601788/2e859787-c773-4d65-ad13-99726565de3a)
+
 
 This repo is an image-based particle model Monte Carlo simulation for the article:
 
