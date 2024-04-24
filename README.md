@@ -17,7 +17,6 @@ Shiwen Zhu<sup>1</sup>, Yi Ting Loo <sup>2,3</sup>, Sapthaswaran Veerapathiran<s
 <sup>6</sup>Institute of Molecular and Cell Biology, A*STAR, Singapore 138673
 <sup>7</sup>Institute of Digital Molecular Analytics and Science, National University of Singapore, Singapore 636921
 
-
 ### Recommended set-up for project
 
 Create a virtual environment using:
@@ -29,9 +28,17 @@ Add `conda-forge` channel required for some libraries:
 ``` bash
 conda config --env --add channels conda-forge
 ```
-
 Install package versions listed in `requirements.txt`:
 ```bash
 conda install --file requirements.txt
 ```
+Clone the repo:
+```bash
+git clone https://github.com/TimSaundersLab/image_based_particle_model.git
+```
 
+### Folders description
+`binary_images` contains the images of extracellular spaces in the realistic zebrafish brain tissue architecture.
+`toy_data/toy_OT` is a smaller stack of binary images to test the simulations.
+`particle_models` contain the main functions for modelling.
+`scripts` contain python scripts with example usages of the functions.
