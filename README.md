@@ -38,7 +38,7 @@ git clone https://github.com/TimSaundersLab/image_based_particle_model.git
 ```
 
 ### Folders description
-`binary_images` contains the images of extracellular spaces in the realistic zebrafish brain tissue architecture.
+`binary_images` contains the realistic images of extracellular spaces in the zebrafish brain tissue architecture.
 `toy_data/toy_OT` is a smaller stack of binary images to test the simulations.
-`particle_models` contain the main functions for modelling.
-`scripts` contain python scripts with example usages of the functions.
+`particle_models` contains the main functions for FRAP and FCS image-based particle modelling.
+`scripts` contains python scripts with example usages of the functions.
