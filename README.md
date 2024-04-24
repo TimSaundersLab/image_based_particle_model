@@ -3,11 +3,11 @@
 ![image](https://github.com/Yi-Ting-Loo/image_based_particle_model/assets/91601788/2e859787-c773-4d65-ad13-99726565de3a)
 
 
-This repo is an image-based particle model Monte Carlo simulation for the article:
+This repo is an image-based particle model Monte Carlo simulation for the article by Zhu and Loo $\textit{et. al.}$:
 
-### An $\textit{in silico}$ Zebrafish brain model reveals that hindered diffusion is consistent with morphogen gradient formation
+### Zebrafish brain $\textit{in silico}$ architecture recapitulates morphogen local-to-global diffusion coefficient transition
 
-Shiwen Zhu<sup>1</sup>, Yi Ting Loo <sup>2,3</sup>, Sapthaswaran Veerapathiran<sup>1</sup>, Tricia Y. J. Loo<sup>3,5</sup>, Bich Ngoc Tran<sup>1</sup>, Cathleen Teh<sup>1</sup>, Paul T. Matsudaira<sup>1</sup>, Timothy E Saunders<sup>1,3</sup>, and Thorsten Wohland<sup>1,4,7</sup>.
+Shiwen Zhu<sup>1</sup>, Yi Ting Loo <sup>2,3</sup>, Sapthaswaran Veerapathiran<sup>1</sup>, Tricia Y. J. Loo<sup>3,5</sup>, Bich Ngoc Tran<sup>1</sup>, Cathleen Teh<sup>1</sup>, Jun Zhong<sup>1,5</sup>, Paul T. Matsudaira<sup>1</sup>, Timothy E Saunders<sup>1,3</sup>, and Thorsten Wohland<sup>1,4,7</sup>.
 
 <sup>1</sup>NUS Centre for Bio-Imaging Science, Department of Biological Sciences, National University of Singapore, Singapore 117558
 <sup>2</sup>Mathematics Institute, University of Warwick, Coventry CV4 7AL, United Kingdom
