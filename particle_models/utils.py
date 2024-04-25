@@ -364,3 +364,12 @@ def autocorr_fcs(data):
     centered_data = data - np.mean(data)
     acf_values = np.correlate(centered_data, centered_data, mode="full") / len(data)
     return acf_values[len(data)-1:] / (np.mean(data)**2) # normalise by mean
+
+def fcs_diffusion_coef(tau, R):
+    """
+    To calculate diffusion coefficient from time constant for FCS data (3D diffusion)
+    Args:
+        tau (float): diffusion time constant
+        R (float): radius of FRAP region
+    """
+    return  (R**2) / (4*tau) 
