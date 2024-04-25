@@ -5,7 +5,7 @@
 
 This repo is an image-based particle model Monte Carlo simulation for the article by Zhu and Loo $\textit{et. al.}$:
 
-### Zebrafish brain $\textit{in silico}$ architecture recapitulates morphogen local-to-global diffusion coefficient transition
+### Receptor binding and tissue architecture explains the morphogen local-to-global diffusion coefficient transition
 
 Shiwen Zhu<sup>1</sup>, Yi Ting Loo <sup>2,3</sup>, Sapthaswaran Veerapathiran<sup>1</sup>, Tricia Y. J. Loo<sup>3,5</sup>, Bich Ngoc Tran<sup>1</sup>, Cathleen Teh<sup>1</sup>, Jun Zhong<sup>1,5</sup>, Paul T. Matsudaira<sup>1</sup>, Timothy E Saunders<sup>1,3</sup>, and Thorsten Wohland<sup>1,4,7</sup>.
 

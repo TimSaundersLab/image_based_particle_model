@@ -326,6 +326,15 @@ def fit_no_cells_case(tau_fitted, true_diff, w):
     param, _ = curve_fit(diff_coef, tau_fitted, true_diff)
     return param[0]
 
+def linear(X, k):
+    """Linear function"""
+    return k*X
+
+def fit_linear(x, data):
+    """Fitting a linear function"""
+    param, cov = curve_fit(linear, x, data)
+    return param[0]
+
 ### DATA ANALYSIS FOR FCS RESULTS
 def G(lag_time, tau, G0):
     """
