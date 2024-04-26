@@ -1,6 +1,6 @@
 # image_based_particle_model
 
-![image](https://github.com/Yi-Ting-Loo/image_based_particle_model/assets/91601788/2e859787-c773-4d65-ad13-99726565de3a)
+![FRAP_panel_final-03](https://github.com/Yi-Ting-Loo/image_based_particle_model/assets/91601788/6218b12a-5238-4310-b60f-f5616266c9c5)
 
 
 This repo is an image-based particle model Monte Carlo simulation for the article by Zhu and Loo $\textit{et. al.}$:
